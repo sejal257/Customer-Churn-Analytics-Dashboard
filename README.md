@@ -20,7 +20,5 @@ This project utilizes the **Online Retail II / UCI Machine Learning Repository**
 
 ## 🛠️ How to Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sejal257/Customer-Churn-Analytics-Dashboard.git](https://github.com/sejal257/Customer-Churn-Analytics-Dashboard.git)
-   cd Customer-Churn-Analytics-Dashboard
+git clone https://github.com/sejal257/Customer-Churn-Analytics-Dashboard.git
+cd Customer-Churn-Analytics-Dashboard
